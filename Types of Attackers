@@ -1,1 +1,22 @@
-Task 1:
+Task 1: Attack Surface & Types of Attackers:
+
+Attack Surface:
+    *An attack surface is the total number of entry points through which an attacker can attempt to compromise a system.
+  Common Attack Surfaces
+    *Web applications (login pages, forms)
+    *Mobile applications
+    *APIs
+    *Networks (Wi-Fi, routers)
+    *Cloud infrastructure
+    *Databases
+
+Script Kiddies:
+  *Beginners using ready-made tools without deep knowledge.
+Insiders:
+  *Employees misusing authorized access.
+Hacktivists:	
+  *Attack for political or social causes
+Cyber Criminals:	
+  *Motivated by financial gain
+Nation-State Actors:
+  *Government-backed attackers targeting critical infrastructure
