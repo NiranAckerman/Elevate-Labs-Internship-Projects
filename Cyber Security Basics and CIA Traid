@@ -1,0 +1,38 @@
+Task 1: Understanding Cyber Security Basics & Attack Surface:
+
+1.What is means Cyber Security?
+    *Cyber Security is Domain of Protecting our Digital Assets such as Data, System, Network, Applicaions and Network Connected Devices using Cyber Security related technologies,
+     Process and Methodologies.
+    *By Preventing the Cyber Attacks, unauthorized Access, Data theft , Data breaches and all the Other Cyber and Digital related Criminal Activities and Forgeries.
+    *In Cyber Security People Ensures that our Data, System and Applications are in Safe and Protected using the CIA Traid,
+      *(C--> Confidentiality)
+      *(I--> Integrity)
+      *(A--> Availability)
+
+ i) C--> Confidentiality:
+      *Confidentiality means in an organization the Data, Systems, Networks and Applications are Protected from Unauthorized peoples and Other Criminal Related Activities
+      *By Using Encription/Decryptions Methods in the Communication Medium to the Sender/Receiver
+      *This Ensure that our Digital Assets are in safely
+      *This is Knowns as Confidentiality
+
+ii) I--> Integrity:
+      * Integrity means our data is 100% accurate, Completeness and Trustworthiness during the Communication and the Other Mediums without any malicious tampering, Alternatives, Modifications.
+      * By using Version Control for tampering, File Permissions for the Alternatives and modifications, Checking Digital Signatures and using Checksums.
+      * This will Ensures the Integrity ensures the Sender/Receiver that is our data is safe.
+
+iii) A--> Availability:
+      * Availability means Our data is Accesed by Authorized users when needed.
+      * It Ensures that our data can be Access by Authorized users only not Others like Unauthorized users
+      * Availability ensures in anywhere, Anytime we can access the data like disaster time and other Problamatic times 
+      * If our data servers are facing slowdown, crashes, cyber attacks and other problems , Our data is being Beckuped and Stored for other backup or recovery servers for Data Recovery.
+      * This Ensures that Our Data is Safe.
+
+Realworld Example: I'll Taking banking:
+   Confidentiality:
+      *Banks are protecting Our Accounts by Secure Authendication and Authorization by Accessing Only Authorized Account Holder by ATM Card and PIN and the Other Authorized Bank Employees
+   Integrity:
+      * In banks and Online Banking Like UPI Transactions Platforms like PhonePe are following and maintains the Every Transcations stores the logs about time, date,sender details and all the other Informations.
+      * It ensure the Data of the transactions is trustworthy, 100% accurate and completeness.
+   Availability:
+      * Banking system provides the availability to access the banking services at anytime on banks, ATM centers , Computer centers and Online Banking
+      * This Ensures the Data and Resources Availabilty.
