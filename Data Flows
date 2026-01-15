@@ -1,0 +1,7 @@
+User → Application → Server → Database
+
+Attack Points in Data Flow
+  *User side: Phishing, malware
+  *Application layer: Input validation flaws
+  *Server: Misconfiguration, outdated software
+  *Database: SQL injection, unauthorized access
