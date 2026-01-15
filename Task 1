@@ -27,3 +27,13 @@ iii) A--> Availability:
       * If our data servers are facing slowdown, crashes, cyber attacks and other problems , Our data is being Beckuped and Stored for other backup or recovery servers for Data Recovery.
       * This Ensures that Our Data is Safe.
 
+Realworld Example: I'll Taking banking:
+   Confidentiality:
+      *Banks are protecting Our Accounts by Secure Authendication and Authorization by Accessing Only Authorized Account Holder by ATM Card and PIN and the Other Authorized Bank Employees
+   Integrity:
+      * In banks and Online Banking Like UPI Transactions Platforms like PhonePe are following and maintains the Every Transcations stores the logs about time, date,sender details and all the other Informations.
+      * It ensure the Data of the transactions is trustworthy, 100% accurate and completeness.
+   Availability:
+      * Banking system provides the availability to access the banking services at anytime on banks, ATM centers , Computer centers and Online Banking
+      * This Ensures the Data and Resources Availabilty.
+
