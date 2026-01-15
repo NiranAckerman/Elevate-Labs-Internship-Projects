@@ -24,5 +24,6 @@ iii) A--> Availability:
       * Availability means Our data is Accesed by Authorized users when needed.
       * It Ensures that our data can be Access by Authorized users only not Others like Unauthorized users
       * Availability ensures in anywhere, Anytime we can access the data like disaster time and other Problamatic times 
-      * If our data servers are facing slowdown, crashes, cyber attacks and other problems , Our data is being Beckuped and Stored for other backup or recovery servers for Data Recovery
+      * If our data servers are facing slowdown, crashes, cyber attacks and other problems , Our data is being Beckuped and Stored for other backup or recovery servers for Data Recovery.
+      * This Ensures that Our Data is Safe.
 
